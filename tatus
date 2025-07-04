@@ -1,0 +1,42 @@
+[1mdiff --git a/github.code-workspace b/github.code-workspace[m
+[1mdeleted file mode 100644[m
+[1mindex 984e643..0000000[m
+[1m--- a/github.code-workspace[m
+[1m+++ /dev/null[m
+[36m@@ -1,12 +0,0 @@[m
+[31m-{[m
+[31m-	"folders": [[m
+[31m-		{[m
+[31m-			"path": "../../../../xamppp/htdocs/github"[m
+[31m-		},[m
+[31m-		{[m
+[31m-			"name": "Firstgit",[m
+[31m-			"path": "../../../../xamppp/htdocs/github/Firstgit"[m
+[31m-		}[m
+[31m-	],[m
+[31m-	"settings": {}[m
+[31m-}[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e69de29..20ff62c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,14 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <h1>hello</h1>[m
+[32m+[m[32m    <p>[m
+[32m+[m[32m        i am swostika kc i am learning git[m
+[32m+[m[32m    </p>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/text.txt b/text.txt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
